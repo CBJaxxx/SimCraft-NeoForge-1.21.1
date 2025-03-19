@@ -1,5 +1,6 @@
 {
   "itemGroup.simcraft": "Example Mod Tab",
   "block.simcraft.example_block": "Example Block",
-  "item.simcraft.example_item": "Example Item"
+  "item.simcraft.example_item": "Example Item",
+  "item.simcraft.gift": "Gift"
 }
