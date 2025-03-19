@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "simcraft:item/gift"
+    "layer0": "simcraft:item/gift.png"
   }
 }
